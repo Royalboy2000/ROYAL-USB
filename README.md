@@ -1,2 +1,4 @@
 # ROYAL-USB
-Any recommendations please tell me on ig 
+git clone https://github.com/Royalboy2000/ROYAL-USB
+
+cd ROYAL-USB
